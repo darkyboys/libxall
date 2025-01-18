@@ -9,7 +9,7 @@ Installing `libXALL` is very simple just clone this repository via this command 
 git clone https://github.com/darkyboys/libxall.git
 cd libxall/src
 cp xall.hpp ..
-cd xall.hpp ..
+cp xall.hpp ..
 mkdir xall
 cp xall.hpp xall
 echo "libXALL Was installed successfully, Now use it localy!. Move max directory where every you want"
