@@ -1,0 +1,6 @@
+# This is the shell script for compiling the LibXAll
+# Uncomment this part for Example Compilation
+g++ main.cpp -o test/main
+clear
+test/main
+echo ""
