@@ -1,0 +1,9 @@
+# The test file;
+clean();
+
+main (`test.cc`);
+bin (`.`);
+exec ();
+clean_main();
+
+make();
