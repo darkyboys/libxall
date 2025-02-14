@@ -1,5 +1,5 @@
-# XALL1 - Markup Language
-XALL1 is a Markup Language for creating such a high quality websites with a lot of ease. This is the official repository for Obtaining `libXALL` which is the official library responsible for Compiling the XALL Lang Into HTML Code So that the browsers can execute the XALL Programs with a lot of ease. `libXALL` also allows you to create a custom Compiler for XALL With a lot of ease, You only need to know about how `libXALL` works and what functions & classes are there in `libXALL` and how you may use them.
+# XALL2 - Markup Language
+XALL2 is a Markup Language for creating such a high quality websites with a lot of ease. This is the official repository for Obtaining `libXALL` which is the official library responsible for Compiling the XALL Lang Into HTML Code So that the browsers can execute the XALL Programs with a lot of ease. `libXALL` also allows you to create a custom Compiler for XALL With a lot of ease, You only need to know about how `libXALL` works and what functions & classes are there in `libXALL` and how you may use them.
 
 ## Installing libXALL
 Installing `libXALL` is very simple just clone this repository via this command and then copy the XALL `Cxx Headerfile` where every you want it to be.
